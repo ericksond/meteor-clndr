@@ -13,6 +13,9 @@ Add the clndr wrapper
 meteor add ericksond:clndr
 ```
 
+CLNDR.js is included unmodified and will add itself to ``window`` and ``$``
+respectively.
+
 Visit the clndr.js official project at
 
 https://www.npmjs.com/package/clndr
